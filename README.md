@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riyushiki
 - 👀 I’m interested in reverse engineering and game development
-- 🌱 I’m currently learning C# and Unity development
+- 🌱 I’m currently learning C++ and Unreal Engine development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: riyushikiornot (discord)
 
